@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Borrador",
+    "price": 250,
+    "thumbnail": "www.librerias.com/2",
+    "id": 1
+  },
+  {
+    "title": "Escuadra",
+    "price": 350,
+    "thumbnail": "www.librerias.com/2",
+    "id": 2
+  }
+]
